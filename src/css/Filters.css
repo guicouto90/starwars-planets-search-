@@ -1,0 +1,12 @@
+.container-filters {
+  background-color: yellow;
+  color: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container-name-filter {
+  display: block;
+  justify-content: start;
+}
